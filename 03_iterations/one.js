@@ -42,7 +42,7 @@ for (let i = 0; i < myArray.length; i++) {
 
 for (let i = 0; i < 20; i++) {   
     if(i==9){
-        console.log("detected 9")
+        console.log("detected 9 ")
         continue;
     }
     console.log(`value of i : ${i}`)
