@@ -18,8 +18,8 @@ console.log(anotherString)
 
 
 const yourSport = "    Badminton    "
-// console.log(yourSport)
-// console.log(yourSport.trim())
+console.log(yourSport)
+console.log(yourSport.trim())
 
 const url = "www.gmail%20log.com"
 console.log(url.replace("%20", "-"))

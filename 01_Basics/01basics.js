@@ -86,8 +86,8 @@ let marks = 25;
 
 let updateMarks = marks;
 updateMarks = 56;
-console.log(marks);
-console.log(updateMarks); 
+// console.log(marks);
+// console.log(updateMarks); 
 
 
 let obj = {
@@ -96,5 +96,5 @@ let obj = {
 
 let anotherObj = obj;
 anotherObj.email = "Sunny@bmu.in"
-console.log(obj.email)
-console.log(anotherObj.email)
+// console.log(obj.email)
+// console.log(anotherObj.email)
